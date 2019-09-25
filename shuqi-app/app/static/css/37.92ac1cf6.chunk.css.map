@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA,WACI,UAAW,CACX,WAAY,CACZ,eAAgB,CAEnB,OAMG,UAAU,CACV,YAAc,CACd,iBAAmB,CACnB,gBAAkB,CAClB,2BAA6B,CAC7B,OAAO,CACP,WAAW,CAjBf,MACI,eAAgB,CAChB,UAAW,CACX,4BAA4B","file":"37.92ac1cf6.chunk.css","sourcesContent":[".head{\r\n    background: #fff;\r\n    color: #000;\r\n    border-bottom:1px solid #eee; \r\n}"]}
